@@ -1,5 +1,7 @@
 # Translating Xbox One memory to PC D3D12/Vulkan: what we built, what broke, what we learned
 
+> **More material:** this write-up is also split into topic files, with an experiment ledger, measurement method, a GPU timestamp layer design, Wine/Proton notes, open questions and profiling tools, at **[xbox-translator-notes](https://github.com/TPepperoni666/xbox-translator-notes)**.
+
 *A technical write-up for someone starting an Xbox Series X translator.*
 
 ## 0. About this document
